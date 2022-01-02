@@ -1,4 +1,9 @@
 body{
-  background-color: #f0e68c;
-  color: #f08080;
+    background-color: #f0e68c;
+}
+.container{
+    padding: 50%;
+    background-color: #1e90ff;
+    text-decoration-color: #f0e68c;
+    text-align: center;
 }
